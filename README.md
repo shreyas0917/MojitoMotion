@@ -2,9 +2,6 @@
 
 Welcome to **Mojito Motion**, a smooth, high-performance animation playground built with **React** and **GSAP**. This project blends modern UI interactions with creative motion design, showcasing how frontend developers can bring interfaces to life with code! 🍃✨
 
-🔗 **Live Demo:** [mojito-motion.vercel.app](https://mojito-motion.vercel.app/)  
-📦 **Repo:** [GitHub - Mojito Motion](https://github.com/VirendraT11/Mojito-Motion)
-
 ---
 
 ## 🚀 Features
@@ -64,21 +61,4 @@ Mojito-Motion/
 - `ScrollTrigger.create()` for scroll-based transitions 🔄
 - `.fromTo()` and `.to()` for precise control over animations 🎛️
 - `matchMedia` logic to handle mobile vs desktop behavior 📱🖥️
-
----
-
-## 👨‍💻 Author
-
-Made with ❤️ by [Virendra Tambavekar](https://www.linkedin.com/in/virendra-tambavekar/)
-
-🐦 Twitter: [@VirendraCodes](https://x.com/VirendraCodes)  
-📬 Open to collaborations and frontend animation gigs!
-
----
-
-## 🌟 If You Like It...
-
-Drop a ⭐ on the [GitHub Repo](https://github.com/VirendraT11/Mojito-Motion), try out the live version, and connect with me for feedback or ideas!
-
-> _"Motion tells a story. Code brings it to life."_
 
